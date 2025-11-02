@@ -31,7 +31,7 @@ Redesign the provided website repository with improved user interface, color sch
 **Team Name:** Team Alpha  
 **Members:**  
 - Hasnain Sheikh (Lead Designer & Developer)  
-- [Add teammate names if any]
+- Piyanshu Gade 
 
 ---
 
